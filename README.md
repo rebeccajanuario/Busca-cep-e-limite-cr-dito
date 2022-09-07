@@ -13,4 +13,7 @@ Estado–Texto–2
 Renda Mensal–double–10
 Limite Crédito–double-10
 
-Os campos Endereço, Complemento, Bairro, Cidade, Estado, Limite de Crédito devem ficar desabilitados ( não  permiti ndo  o  pr eenc hi  ment o  pel o us uári o)I nsi ra  um botão pesquisar que estando o campo CEP  preenchido  faça  a busca   no   CEP ( Através   de   u ma   API )   e   pr eenc ha   os  ca mpos  ( Ender eço, Co mpl e ment o,  Bai rr o,  Ci da/de,  Est ado).Quando   f or   pr eenc hi do   o   ca mpo   r enda    mens al   que   sej apr eenc hi do   o ca mpo  li mi t e   de   cr édi t o   co mo   sendo   30   %   do   val or   do   ca mpo   Renda Me ns alCri e  u m  l ayout  agradável .
+Os campos Endereço, Complemento, Bairro, Cidade, Estado, Limite de Crédito devem ficar desabilitados ( não permitindo o preenchimento pelo usuário)
+Insira um botão pesquisar que estando o campo CEP preenchido faça a busca no CEP ( Através de uma API ) e preencha os campos ( Endereço, Complemento, Bairro, Cidade, Estado).
+Quando for preenchido o campo renda mensal que seja preenchido o campo limite de crédito como sendo 30% do valor do campo Renda Mensal.
+Crie um layout agradável.
